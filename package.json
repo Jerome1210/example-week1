@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "node",
+=======
+  "name": "example-week1",
+>>>>>>> bbd7a00f603b43d8c363fe9dae8be0f538667ab7
   "version": "0.0.0",
   "description": "",
   "main": "app.js",
@@ -7,8 +11,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+<<<<<<< HEAD
   "license": "ISC",
   "dependencies": {
     "request": "^2.34.0"
+=======
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.34.0"
+>>>>>>> bbd7a00f603b43d8c363fe9dae8be0f538667ab7
   }
 }
